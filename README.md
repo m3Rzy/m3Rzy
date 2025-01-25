@@ -13,13 +13,3 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/m3Rzy/badges/large)
-
-### ⚙️ GitHub stats:
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m3Rzy&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
